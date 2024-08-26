@@ -1,0 +1,2 @@
+Day4 of learning the Rust language comprises of Data types in rust where we used to see that the numeric data types like integers and floating points have space allocation from 8 bits to 128 bits in the integers ones and 32 bits and 64 bits in the floating points ones. Like all the other languages they have similar data types for the primitive ones.
+But for the compound ther are two datatypes which are tuples and arrays. 
