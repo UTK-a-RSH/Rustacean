@@ -1,0 +1,1 @@
+Day5 of learning the Rust language comprises that Calling a function in rust is an expression, calling a macro is also an expression and more than that return keyword while return an expression is never neccessary in the rust.
